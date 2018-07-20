@@ -1,0 +1,3 @@
+table arp_nhop exact
+table forward_table exact
+table ipv4_nhop exact
